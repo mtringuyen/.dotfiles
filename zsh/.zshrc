@@ -101,15 +101,15 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source ~/.zsh_profile
 
-alias luamake=/home/mpaulson/personal/lua-language-server/3rd/luamake/luamake
+alias luamake=/home/tringuyen/personal/lua-language-server/3rd/luamake/luamake
 
 # bun completions
-[ -s "/home/mpaulson/.bun/_bun" ] && source "/home/mpaulson/.bun/_bun"
+[ -s "/home/tringuyen/.bun/_bun" ] && source "/home/tringuyen/.bun/_bun"
 
 # Bun
-export BUN_INSTALL="/home/mpaulson/.bun"
+export BUN_INSTALL="/home/tringuyen/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 # Bun
-export BUN_INSTALL="/home/mpaulson/.bun"
+export BUN_INSTALL="/home/tringuyen/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
